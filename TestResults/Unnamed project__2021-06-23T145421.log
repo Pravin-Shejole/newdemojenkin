@@ -1,0 +1,83 @@
+﻿2021-06-23T14:54:21.2026140+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-23T14:54:21.2026140+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x86 mode execution started
+2021-06-23T14:54:21.2026140+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-23T14:54:21.2026140+05:30;VSTestExecutionThread;Info;Current UserName: 'User', MachineName: 'LATITUDE-PC'
+2021-06-23T14:54:21.2426163+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T14:54:21.2426163+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\SpecflowProjectdotnet\TestResults" (default)
+2021-06-23T14:54:21.2426163+05:30;VSTestExecutionThread;Info;Profile: 
+2021-06-23T14:54:21.2986195+05:30;VSTestExecutionThread;Info;Log file path: D:\SpecflowProjectdotnet\TestResults\Unnamed project__2021-06-23T145421.log
+2021-06-23T14:54:21.3076200+05:30;Thread#13;Info;Checking activation
+2021-06-23T14:54:21.4016254+05:30;Thread#13;Info;Activated.
+2021-06-23T14:54:21.4026254+05:30;Thread#13;Info;Activation check completed
+2021-06-23T14:54:21.4026254+05:30;Thread#13;Info;Starting test run
+2021-06-23T14:54:21.4516282+05:30;Thread#13;Info;Discovering target: Default
+2021-06-23T14:54:21.4516282+05:30;Thread#13;Info;Discovering tests from assembly: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T14:54:21.8446507+05:30;Thread#13;Info;Discovered tests from assembly: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T14:54:21.8466508+05:30:Test Suite Dump
+2021-06-23T14:54:21.8496510+05:30:#0: Unnamed project/ - 
+2021-06-23T14:54:21.8496510+05:30:#1: Default - 
+2021-06-23T14:54:21.8496510+05:30:#2: SpecflowProjectdotnet - 
+2021-06-23T14:54:21.8496510+05:30:#3: Check_drona_academy_Login - 
+2021-06-23T14:54:21.8856531+05:30:#4: Successfully login With a valid credentials - TestAssembly:SpecflowProjectdotnet/Feature:Check_drona_academy_Login/Scenario:Successfully+login+With+a+valid+credentials
+2021-06-23T14:54:21.8856531+05:30:End: Test Suite Dump
+2021-06-23T14:54:21.9256554+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T14:54:21.9306556+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-23T14:54:21.9306556+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-23T14:54:21.9366560+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-23T14:54:21.9366560+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-23T14:54:21.9366560+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-23T14:54:21.9366560+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-23T14:54:21.9376560+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-23T14:54:21.9386561+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-23T14:54:21.9426563+05:30:Thread #0: creating new test thread executor for SpecflowProjectdotnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-23T14:54:21.9456565+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-23T14:54:21.9476566+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-23T14:54:21.9496567+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-06-23T14:54:22.3196779+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\LivingDoc.SpecFlowPlugin.dll
+2021-06-23T14:54:22.3666806+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-23T14:54:22.3706808+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T14:54:22.3706808+05:30:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecflowProjectdotnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-23T14:54:22.3816814+05:30:Thread#0:T:-> Using default config
+2021-06-23T14:54:22.8287070+05:30:Thread#0: Test #4/0 is started on thread #0
+2021-06-23T14:54:22.8627089+05:30:Thread#0:B:Given Navigate to the login Page
+2021-06-23T14:55:28.4894626+05:30:Thread#0:T:done: Check_Drona_Academy_LoginSteps.GivenNavigateToTheLoginPage() (65.5s)
+2021-06-23T14:55:28.5084637+05:30:Thread#0:B:And and Enter valid username 'amruta.yadav@nxglabs.in' and Password '111111111111111'
+2021-06-23T14:55:29.1945029+05:30:Thread#0:T:done: Check_Drona_Academy_LoginSteps.GivenAndEnterValidCredentials("amruta.yadav@nxgl...", "111111111111111") (0.7s)
+2021-06-23T14:55:29.1955030+05:30:Thread#0:B:When When click login Button
+2021-06-23T14:55:42.3052528+05:30:Thread#0:T:done: Check_Drona_Academy_LoginSteps.WhenWhenClickLoginButton() (13.1s)
+2021-06-23T14:55:42.3092530+05:30:Thread#0:B:Then User should be login and redirected to the Dashboard
+2021-06-23T14:55:42.3162534+05:30:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecflowProjectdotnet:SpecflowProjectdotnet.Steps.Check_Drona_Academy_LoginSteps.ThenUserShouldBeLoginAndRedirectedToTheDashboard(String)' should have 0 parameters
+2021-06-23T14:55:42.4622618+05:30:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-06-23T14:55:42.4642619+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T14:55:42.4642619+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-23T14:55:42.4642619+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-23T14:55:42.4642619+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-23T14:55:42.4642619+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-23T14:55:42.4642619+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-23T14:55:42.4642619+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-23T14:55:42.4642619+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-23T14:55:42.4642619+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-23T14:55:42.4922635+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 79.6625564 seconds
+2021-06-23T14:55:42.4952637+05:30:Thread#0: Test #4/1 is started on thread #0
+2021-06-23T14:55:42.4962637+05:30:Thread#0:B:Given Navigate to the login Page
+2021-06-23T14:56:11.4429194+05:30:Thread#0:T:error: session not created
+2021-06-23T14:56:11.4439194+05:30:Thread#0:T:from disconnected: received Inspector.detached event
+2021-06-23T14:56:11.4439194+05:30:Thread#0:T:  (Session info: chrome=91.0.4472.114) (SessionNotCreated) (28.8s)
+2021-06-23T14:56:11.4459196+05:30:Thread#0:B:And and Enter valid username 'amruta.yadav@nxglabs.in' and Password '111111111111111'
+2021-06-23T14:56:11.4479197+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T14:56:11.4579202+05:30:Thread#0:B:When When click login Button
+2021-06-23T14:56:11.4579202+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T14:56:11.4589203+05:30:Thread#0:B:Then User should be login and redirected to the Dashboard
+2021-06-23T14:56:11.4589203+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T14:56:11.4729211+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T14:56:11.4729211+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-23T14:56:11.4729211+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-23T14:56:11.4729211+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-23T14:56:11.4729211+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-23T14:56:11.4729211+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-23T14:56:11.4729211+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-23T14:56:11.4729211+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-23T14:56:11.4729211+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-23T14:56:11.4739212+05:30:Thread#0: Test #4/1 is finished on thread #0 as Failed within 28.9786575 seconds
+2021-06-23T14:56:11.4739212+05:30:Thread#0: Test #4/2 is started on thread #0
+2021-06-23T14:56:11.4749212+05:30:Thread#0:B:Given Navigate to the login Page

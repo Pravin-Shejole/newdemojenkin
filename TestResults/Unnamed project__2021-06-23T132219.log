@@ -1,0 +1,104 @@
+﻿2021-06-23T13:22:19.5591071+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-23T13:22:19.5591071+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x86 mode execution started
+2021-06-23T13:22:19.5591071+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-23T13:22:19.5591071+05:30;VSTestExecutionThread;Info;Current UserName: 'User', MachineName: 'LATITUDE-PC'
+2021-06-23T13:22:19.6201106+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:22:19.6201106+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\SpecflowProjectdotnet\TestResults" (default)
+2021-06-23T13:22:19.6201106+05:30;VSTestExecutionThread;Info;Profile: 
+2021-06-23T13:22:19.7131159+05:30;VSTestExecutionThread;Info;Log file path: D:\SpecflowProjectdotnet\TestResults\Unnamed project__2021-06-23T132219.log
+2021-06-23T13:22:19.7281168+05:30;Thread#13;Info;Checking activation
+2021-06-23T13:22:19.8751252+05:30;Thread#13;Info;Activated.
+2021-06-23T13:22:19.8761252+05:30;Thread#13;Info;Activation check completed
+2021-06-23T13:22:19.8771253+05:30;Thread#13;Info;Starting test run
+2021-06-23T13:22:19.9521296+05:30;Thread#13;Info;Discovering target: Default
+2021-06-23T13:22:19.9531296+05:30;Thread#13;Info;Discovering tests from assembly: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:22:20.5541640+05:30;Thread#13;Info;Discovered tests from assembly: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:22:20.5561641+05:30:Test Suite Dump
+2021-06-23T13:22:20.5601644+05:30:#0: Unnamed project/ - 
+2021-06-23T13:22:20.5601644+05:30:#1: Default - 
+2021-06-23T13:22:20.5601644+05:30:#2: SpecflowProjectdotnet - 
+2021-06-23T13:22:20.5601644+05:30:#3: Check_drona_academy_Login - 
+2021-06-23T13:22:20.6121673+05:30:#4: Successfully login With a valid credentials - TestAssembly:SpecflowProjectdotnet/Feature:Check_drona_academy_Login/Scenario:Successfully+login+With+a+valid+credentials
+2021-06-23T13:22:20.6121673+05:30:End: Test Suite Dump
+2021-06-23T13:22:20.6571699+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T13:22:20.6611701+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-23T13:22:20.6611701+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-23T13:22:20.6691706+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-23T13:22:20.6691706+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-23T13:22:20.6691706+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-23T13:22:20.6691706+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-23T13:22:20.6711707+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-23T13:22:20.6731708+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-23T13:22:20.6781711+05:30:Thread #0: creating new test thread executor for SpecflowProjectdotnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-23T13:22:20.6821713+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-23T13:22:20.6861716+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-23T13:22:20.6881717+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-06-23T13:22:21.2682049+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\LivingDoc.SpecFlowPlugin.dll
+2021-06-23T13:22:21.3292084+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-23T13:22:21.3382089+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:22:21.3382089+05:30:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecflowProjectdotnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-23T13:22:21.3522097+05:30:Thread#0:T:-> Using default config
+2021-06-23T13:22:21.9652447+05:30:Thread#0: Test #4/0 is started on thread #0
+2021-06-23T13:22:22.0122474+05:30:Thread#0:B:Given Navigate to the login Page
+2021-06-23T13:23:23.2987528+05:30:Thread#0:T:error: The HTTP request to the remote WebDriver server for URL http://localhost:34615/session timed out after 60 seconds. (61.0s)
+2021-06-23T13:23:23.3047531+05:30:Thread#0:B:And and Enter valid username 'amruta.yadav@nxglabs.in' and Password '111111111111111'
+2021-06-23T13:23:23.3107535+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:23:23.3237542+05:30:Thread#0:B:When When click login Button
+2021-06-23T13:23:23.3237542+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:23:23.3257544+05:30:Thread#0:B:Then User should be login and redirected to the Dashboard
+2021-06-23T13:23:23.3267544+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:23:23.4947640+05:30:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-06-23T13:23:23.4977642+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T13:23:23.4977642+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-23T13:23:23.4987642+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-23T13:23:23.4987642+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-23T13:23:23.4987642+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-23T13:23:23.4987642+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-23T13:23:23.4987642+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-23T13:23:23.4987642+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-23T13:23:23.4987642+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-23T13:23:23.5387665+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 61.5725217 seconds
+2021-06-23T13:23:23.5437668+05:30:Thread#0: Test #4/1 is started on thread #0
+2021-06-23T13:23:23.5447669+05:30:Thread#0:B:Given Navigate to the login Page
+2021-06-23T13:24:24.1362325+05:30:Thread#0:T:error: The HTTP request to the remote WebDriver server for URL http://localhost:33920/session timed out after 60 seconds. (60.6s)
+2021-06-23T13:24:24.1372326+05:30:Thread#0:B:And and Enter valid username 'amruta.yadav@nxglabs.in' and Password '111111111111111'
+2021-06-23T13:24:24.1372326+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:24:24.1372326+05:30:Thread#0:B:When When click login Button
+2021-06-23T13:24:24.1382326+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:24:24.1382326+05:30:Thread#0:B:Then User should be login and redirected to the Dashboard
+2021-06-23T13:24:24.1382326+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:24:24.1402327+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T13:24:24.1402327+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-23T13:24:24.1402327+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-23T13:24:24.1402327+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-23T13:24:24.1402327+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-23T13:24:24.1402327+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-23T13:24:24.1402327+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-23T13:24:24.1402327+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-23T13:24:24.1402327+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-23T13:24:24.1422329+05:30:Thread#0: Test #4/1 is finished on thread #0 as Failed within 60.5984661 seconds
+2021-06-23T13:24:24.1422329+05:30:Thread#0: Test #4/2 is started on thread #0
+2021-06-23T13:24:24.1432329+05:30:Thread#0:B:Given Navigate to the login Page
+2021-06-23T13:25:24.6726950+05:30:Thread#0:T:error: The HTTP request to the remote WebDriver server for URL http://localhost:20536/session timed out after 60 seconds. (60.5s)
+2021-06-23T13:25:24.6736951+05:30:Thread#0:B:And and Enter valid username 'amruta.yadav@nxglabs.in' and Password '111111111111111'
+2021-06-23T13:25:24.6736951+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:25:24.6736951+05:30:Thread#0:B:When When click login Button
+2021-06-23T13:25:24.6746951+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:25:24.6746951+05:30:Thread#0:B:Then User should be login and redirected to the Dashboard
+2021-06-23T13:25:24.6746951+05:30:Thread#0:T:skipped because of previous errors
+2021-06-23T13:25:24.6756952+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T13:25:24.6756952+05:30:Thread#:Scheduler: at the end of normal test queue
+2021-06-23T13:25:24.6756952+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-23T13:25:24.6756952+05:30:Thread#0:Scheduler: No more tests for thread
+2021-06-23T13:25:24.6806955+05:30:Thread#0: Test #4/2 is finished on thread #0 as Failed within 60.5384626 seconds
+2021-06-23T13:25:27.6638661+05:30:Thread#0:T:-> LivingDocPlugin: Output generated in: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\TestExecution.json
+2021-06-23T13:25:40.5546034+05:30:Trying to cancel thread
+2021-06-23T13:25:40.5546034+05:30:Thread cancelled
+2021-06-23T13:25:43.1727531+05:30:Thread#-1:Scheduler: get next test for thread -1
+2021-06-23T13:25:43.1727531+05:30:Thread#:Scheduler: at the end of normal test queue
+2021-06-23T13:25:43.1727531+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-23T13:25:43.1867539+05:30;Thread#13;Info;test run finished
+2021-06-23T13:25:43.1867539+05:30;Thread#13;Info;publishing test results
+2021-06-23T13:27:37.2902803+05:30;Thread#13;Info;test results published
+2021-06-23T13:27:37.2912803+05:30;Thread#13;Info;generating reports
+2021-06-23T13:27:41.0724966+05:30;Thread#13;Info;Starting external report generation process

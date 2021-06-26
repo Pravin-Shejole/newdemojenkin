@@ -1,0 +1,44 @@
+﻿2021-06-23T13:11:03.1884209+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-23T13:11:03.1884209+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x86 mode execution started
+2021-06-23T13:11:03.1894210+05:30;VSTestExecutionThread;Info;TestAdapter Location: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-23T13:11:03.1894210+05:30;VSTestExecutionThread;Info;Current UserName: 'User', MachineName: 'LATITUDE-PC'
+2021-06-23T13:11:03.2554247+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:11:03.2554247+05:30;VSTestExecutionThread;Info;Output folder configured to "D:\SpecflowProjectdotnet\TestResults" (default)
+2021-06-23T13:11:03.2554247+05:30;VSTestExecutionThread;Info;Profile: 
+2021-06-23T13:11:03.4414354+05:30;VSTestExecutionThread;Info;Log file path: D:\SpecflowProjectdotnet\TestResults\Unnamed project__2021-06-23T131103.log
+2021-06-23T13:11:03.4644367+05:30;Thread#8;Info;Checking activation
+2021-06-23T13:11:04.5925012+05:30;Thread#8;Info;Activated.
+2021-06-23T13:11:04.5925012+05:30;Thread#8;Info;Activation check completed
+2021-06-23T13:11:04.5925012+05:30;Thread#8;Info;Starting test run
+2021-06-23T13:11:04.7845122+05:30;Thread#8;Info;Discovering target: Default
+2021-06-23T13:11:04.7845122+05:30;Thread#8;Info;Discovering tests from assembly: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:11:10.2178230+05:30;Thread#8;Info;Discovered tests from assembly: D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:11:10.2198231+05:30:Test Suite Dump
+2021-06-23T13:11:10.2248234+05:30:#0: Unnamed project/ - 
+2021-06-23T13:11:10.2248234+05:30:#1: Default - 
+2021-06-23T13:11:10.2248234+05:30:#2: SpecflowProjectdotnet - 
+2021-06-23T13:11:10.2248234+05:30:#3: Check_drona_academy_Login - 
+2021-06-23T13:11:10.3528307+05:30:#4: Successfully login With a valid credentials - TestAssembly:SpecflowProjectdotnet/Feature:Check_drona_academy_Login/Scenario:Successfully+login+With+a+valid+credentials
+2021-06-23T13:11:10.3528307+05:30:End: Test Suite Dump
+2021-06-23T13:11:10.5018392+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-06-23T13:11:10.5078396+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-23T13:11:10.5078396+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-23T13:11:10.5198402+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-23T13:11:10.5198402+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-23T13:11:10.5198402+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-23T13:11:10.5198402+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-23T13:11:10.5228404+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-23T13:11:10.5258406+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-23T13:11:10.5328410+05:30:Thread #0: creating new test thread executor for SpecflowProjectdotnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-23T13:11:10.5378413+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-23T13:11:10.5488419+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-23T13:11:10.5528421+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-06-23T13:11:11.3568881+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\LivingDoc.SpecFlowPlugin.dll
+2021-06-23T13:11:12.4869528+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-23T13:11:12.5379557+05:30:Thread#0:T:-> Loading plugin D:\SpecflowProjectdotnet\SpecflowProjectdotnet\bin\Debug\net461\SpecflowProjectdotnet.dll
+2021-06-23T13:11:12.5389557+05:30:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecflowProjectdotnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-23T13:11:12.5609570+05:30:Thread#0:T:-> Using default config
+2021-06-23T13:11:22.2575116+05:30;Thread#5;Error;The remote name could not be resolved: 'dc.services.visualstudio.com'
+2021-06-23T13:11:22.2585117+05:30;Thread#10;Error;The remote name could not be resolved: 'dc.services.visualstudio.com'
+2021-06-23T13:11:27.1107892+05:30:Thread#0: Test #4/0 is started on thread #0
+2021-06-23T13:11:27.2087948+05:30:Thread#0:B:Given Navigate to the login Page
